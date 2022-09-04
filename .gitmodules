@@ -1,0 +1,18 @@
+[submodule "3rdparty/stb"]
+	path = 3rdparty/stb
+	url = https://gitee.com/xyd_2478722116/stb.git
+[submodule "3rdparty/spdlog"]
+	path = 3rdparty/spdlog
+	url = https://gitee.com/xyd_2478722116/spdlog.git
+[submodule "3rdparty/glfw"]
+	path = 3rdparty/glfw
+	url = https://gitee.com/xyd_2478722116/glfw.git
+[submodule "3rdparty/glslang"]
+	path = 3rdparty/glslang
+	url = https://gitee.com/xyd_2478722116/glslang.git
+[submodule "3rdparty/glm"]
+	path = 3rdparty/glm
+	url = https://gitee.com/xyd_2478722116/glm.git
+[submodule "3rdparty/imgui"]
+	path = 3rdparty/imgui
+	url = https://gitee.com/xyd_2478722116/imgui.git

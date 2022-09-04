@@ -1,0 +1,9 @@
+/.idea/
+/.vs/
+/build/
+/out/
+/cmake-build-debug-mingw/
+*build*/
+*publish*/
+*.exe
+*.html
